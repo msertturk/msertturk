@@ -1,6 +1,6 @@
 ### Hi there 👋, Mehmet Mert Sertturk
 #### Computer programmer
-![Computer programmer](https://media.licdn.com/dms/image/v2/D4E03AQFagSW1agH82w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702404613135?e=1733356800&v=beta&t=sf-IuSlBuHOoUAbZxbc1O_T7dvBDZO4oxAFVFrHG1VY)
+![Computer programmer](https://media.licdn.com/dms/image/v2/D4D03AQGx3Clvd3PsLQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727789529900?e=1733356800&v=beta&t=3zD4WZQRFdC1qud8V0O62iQUGICbMjJSIYq5M6bNXt0)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
